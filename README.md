@@ -75,5 +75,5 @@ Let’s vibe and build cool things together:
 
 ---
 
-> Made with ✨ love, ☕ caffeine, and 🌸 pink pixels
+> Made with ✨ love, ☕ caffeine, and 🌸 pink pixels - 
 > _A digital space that reflects who I am and what I love building._
