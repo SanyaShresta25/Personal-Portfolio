@@ -31,16 +31,6 @@ This portfolio is **ME-coded**:
 
 ---
 
-## 📸 Screenshots
-
-> ✨ Sneak peek of the ✨ vibes:
-
-| Homepage | Projects Lab | Certifications |
-|---------|---------------|----------------|
-| ![home](https://placehold.co/300x200?text=Home) | ![projects](https://placehold.co/300x200?text=Projects) | ![certs](https://placehold.co/300x200?text=Certifications) |
-
----
-
 ## 🧠 Features
 
 - 🌟 Floating emojis & animations
