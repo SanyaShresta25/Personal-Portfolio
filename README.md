@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FF6B8B&width=435&lines=Hi%2C+I'm+Sanya!+%F0%9F%8C%9F;Welcome+to+my+Magical+Portfolio+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FF6B8B&width=435&lines=Hi%2C+I'm+Sanya Shresta!+%F0%9F%8C%9F;Welcome+to+my+Magical+Portfolio+%F0%9F%8C%B8" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/Made%20with-❤%20%26%20React-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38BDF8?style=for-the-badge" />
@@ -75,5 +75,5 @@ Let’s vibe and build cool things together:
 
 ---
 
-> Made with ✨ love, ☕ caffeine, and 🌸 pink pixels
+> _Made with ✨ love, ☕ caffeine, and 🌸 pink pixels_
 > _A digital space that reflects who I am and what I love building._
