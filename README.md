@@ -61,7 +61,7 @@ npm run dev
 
 ## 🚀 Live Demo
 
-✨ Check it out here: [sanyaportfolio.vercel.app](https://sanyaportfolio.vercel.app)  
+✨ Check it out here: [sanyashresta.netlify.app/](https://sanyashresta.netlify.app/)  
 _(psst... hover on things, they bounce!)_
 
 ---
